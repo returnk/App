@@ -1,0 +1,1494 @@
+---------------------------------------------------------------
+[ 2018-09-12T00:53:28+08:00 ] 172.17.87.134 75.149.221.170 GET /
+[ info ] eshuo.top/ [运行时间：0.064101s][吞吐率：15.60req/s] [内存消耗：429.91kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T01:26:17+08:00 ] 172.17.87.134 106.14.205.224 GET /
+[ info ] eshuo.top/ [运行时间：0.030718s][吞吐率：32.55req/s] [内存消耗：430.43kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'host' => 'eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T03:31:52+08:00 ] 172.17.87.134 203.208.60.41 GET /
+[ info ] www.eshuo.top/ [运行时间：0.064587s][吞吐率：15.48req/s] [内存消耗：431.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T03:38:37+08:00 ] 172.17.87.134 40.77.167.167 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031232s][吞吐率：32.02req/s] [内存消耗：430.74kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'from' => 'bingbot(at)microsoft.com',
+  'host' => 'www.eshuo.top',
+  'pragma' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T04:12:22+08:00 ] 172.17.87.134 124.126.13.30 HEAD /
+[ info ] www.eshuo.top/ [运行时间：0.031332s][吞吐率：31.92req/s] [内存消耗：429.74kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'host' => 'www.eshuo.top',
+  'upgrade-insecure-requests' => '0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T06:10:23+08:00 ] 172.17.87.134 117.182.7.232 HEAD /
+[ info ] www.eshuo.top/ [运行时间：0.067948s][吞吐率：14.72req/s] [内存消耗：428.70kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'host' => 'www.eshuo.top',
+  'pragma' => 'no-cache',
+  'user-agent' => 'Chrome/57',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T06:32:15+08:00 ] 172.17.87.134 203.208.60.4 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031316s][吞吐率：31.93req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T07:58:16+08:00 ] 172.17.87.134 203.208.60.127 GET /
+[ info ] www.eshuo.top/ [运行时间：0.091170s][吞吐率：10.97req/s] [内存消耗：431.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T08:49:44+08:00 ] 172.17.87.134 139.59.76.243 HEAD /
+[ info ] eshuo.top/ [运行时间：0.031201s][吞吐率：32.05req/s] [内存消耗：429.03kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T09:55:53+08:00 ] 172.17.87.134 203.208.60.121 GET /
+[ info ] www.eshuo.top/ [运行时间：0.064052s][吞吐率：15.61req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:02:37+08:00 ] 172.17.87.134 203.208.60.32 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031201s][吞吐率：32.05req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:16:31+08:00 ] 172.17.87.134 203.208.60.58 GET /
+[ info ] www.eshuo.top/ [运行时间：0.030235s][吞吐率：33.07req/s] [内存消耗：431.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:49:50+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin
+[ info ] byu3109350001.my3w.com/index.php/admin [运行时间：0.082979s][吞吐率：12.05req/s] [内存消耗：515.46kb] [文件加载：57]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'host' => 'byu3109350001.my3w.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:49:51+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/login/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/login/index.html [运行时间：0.505047s][吞吐率：1.98req/s] [内存消耗：514.05kb] [文件加载：56]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:02+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/login/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/login/index.html [运行时间：0.039197s][吞吐率：25.51req/s] [内存消耗：514.05kb] [文件加载：56]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/login/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:03+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/captcha
+[ info ] byu3109350001.my3w.com/app/public/captcha [运行时间：0.040048s][吞吐率：24.97req/s] [内存消耗：438.52kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/login/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /data/home/byu3109350001/htdocs/app/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:11+08:00 ] 172.17.87.134 116.22.135.247 POST /index.php/admin/login/check.html
+[ info ] byu3109350001.my3w.com/index.php/admin/login/check.html [运行时间：0.112625s][吞吐率：8.88req/s] [内存消耗：820.32kb] [文件加载：72]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'check',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '30',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/login/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'ee',
+  'password' => 'ee',
+  'code' => 'u',
+)
+[ info ] [ RUN ] app\admin\controller\Login->check[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018768s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_admin_user` [ RunTime:0.007297s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_admin_user` WHERE  `username` = 'ee' LIMIT 1 [ RunTime:0.006643s ]
+[ sql ] [ SQL ] UPDATE `ent_admin_user`  SET `last_login_time`=1536720671,`last_login_ip`='116.22.135.247',`update_time`=1536720671  WHERE  `id` = 1 [ RunTime:0.013700s ]
+---------------------------------------------------------------
+[ 2018-09-12T10:51:11+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/index/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/index/index.html [运行时间：0.044857s][吞吐率：22.29req/s] [内存消耗：621.71kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/login/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:12+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/css/H-ui.admin.css
+[ info ] byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/css/H-ui.admin.css [运行时间：0.099307s][吞吐率：10.07req/s] [内存消耗：423.92kb] [文件加载：49]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => 'byu3109350001.my3w.com',
+    2 => 'app',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/css,*/*;q=0.1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'public' => 'static',
+  'com' => 'app',
+  'hadmin' => 'static',
+  'admin' => 'css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:12+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/lib/Hui-iconfont/1.0.8/iconfont.css
+[ info ] byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/lib/Hui-iconfont/1.0.8/iconfont.css [运行时间：0.098116s][吞吐率：10.19req/s] [内存消耗：423.80kb] [文件加载：49]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => 'byu3109350001.my3w.com',
+    2 => 'app',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/css,*/*;q=0.1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'public' => 'static',
+  'com' => 'app',
+  'hadmin' => 'lib',
+  'iconfont' => '1.0.8',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:12+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/skin/default/skin.css
+[ info ] byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/skin/default/skin.css [运行时间：0.037782s][吞吐率：26.47req/s] [内存消耗：423.74kb] [文件加载：49]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => 'byu3109350001.my3w.com',
+    2 => 'app',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/css,*/*;q=0.1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'public' => 'static',
+  'hadmin' => 'static',
+  'admin' => 'skin',
+  'default' => 'skin.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:13+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/lib/Hui-iconfont/1.0.8/iconfont.css
+[ info ] byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/lib/Hui-iconfont/1.0.8/iconfont.css [运行时间：0.113947s][吞吐率：8.78req/s] [内存消耗：423.80kb] [文件加载：49]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => 'byu3109350001.my3w.com',
+    2 => 'app',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/css,*/*;q=0.1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'public' => 'static',
+  'com' => 'app',
+  'hadmin' => 'lib',
+  'iconfont' => '1.0.8',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:13+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/css/H-ui.admin.css
+[ info ] byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/css/H-ui.admin.css [运行时间：0.115020s][吞吐率：8.69req/s] [内存消耗：423.92kb] [文件加载：49]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => 'byu3109350001.my3w.com',
+    2 => 'app',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/css,*/*;q=0.1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'public' => 'static',
+  'com' => 'app',
+  'hadmin' => 'static',
+  'admin' => 'css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:13+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/skin/default/skin.css
+[ info ] byu3109350001.my3w.com/app/public/http://byu3109350001.my3w.com/app/public/static/hadmin/static/h-ui.admin/skin/default/skin.css [运行时间：0.057020s][吞吐率：17.54req/s] [内存消耗：423.74kb] [文件加载：49]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'http:',
+    1 => 'byu3109350001.my3w.com',
+    2 => 'app',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/css,*/*;q=0.1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'public' => 'static',
+  'hadmin' => 'static',
+  'admin' => 'skin',
+  'default' => 'skin.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:13+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/news/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/news/index.html [运行时间：0.092939s][吞吐率：10.76req/s] [内存消耗：870.02kb] [文件加载：67]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010570s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007076s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`status`,`is_position`,`update_time`,`create_time` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,4 [ RunTime:0.006705s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.006147s ]
+---------------------------------------------------------------
+[ 2018-09-12T10:51:24+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/news/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/news/index.html [运行时间：0.093049s][吞吐率：10.75req/s] [内存消耗：870.77kb] [文件加载：67]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012039s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.007747s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`status`,`is_position`,`update_time`,`create_time` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,4 [ RunTime:0.006987s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.006879s ]
+---------------------------------------------------------------
+[ 2018-09-12T10:51:28+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/news/add.html
+[ info ] byu3109350001.my3w.com/index.php/admin/news/add.html [运行时间：0.044166s][吞吐率：22.64req/s] [内存消耗：622.85kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->add[ /data/home/byu3109350001/htdocs/app/application/admin/controller/News.php ]
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/news/add.html [ array (
+  0 => 'cats',
+  1 => 'serverName',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:51:47+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/news/
+[ info ] byu3109350001.my3w.com/index.php/admin/news/ [运行时间：0.208481s][吞吐率：4.80req/s] [内存消耗：870.34kb] [文件加载：67]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/app/public/static/admin/uploadify/uploadify.swf?preventswfcaching=1536720693425',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012922s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006537s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`status`,`is_position`,`update_time`,`create_time` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,4 [ RunTime:0.005840s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.005681s ]
+---------------------------------------------------------------
+[ 2018-09-12T10:51:58+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/index/add.html
+[ info ] byu3109350001.my3w.com/index.php/admin/index/add.html [运行时间：0.044610s][吞吐率：22.42req/s] [内存消耗：622.45kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->add[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/index/add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:52:00+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/version/add.html
+[ info ] byu3109350001.my3w.com/index.php/admin/version/add.html [运行时间：0.045521s][吞吐率：21.97req/s] [内存消耗：622.47kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'version',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Version->add[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Version.php ]
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/version/add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:52:02+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/version/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/version/index.html [运行时间：0.086441s][吞吐率：11.57req/s] [内存消耗：874.66kb] [文件加载：67]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'version',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Version->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Version.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/version/index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011336s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.007806s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` <> -1 ORDER BY `id`  desc [ RunTime:0.007167s ]
+---------------------------------------------------------------
+[ 2018-09-12T10:52:06+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/version/index.html
+[ info ] byu3109350001.my3w.com/index.php/admin/version/index.html [运行时间：0.084116s][吞吐率：11.89req/s] [内存消耗：874.66kb] [文件加载：67]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'version',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Version->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Version.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/version/index.html [ array (
+  0 => 'version',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010654s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_version` [ RunTime:0.007255s ]
+[ sql ] [ SQL ] SELECT * FROM `ent_version` WHERE  `status` <> -1 ORDER BY `id`  desc [ RunTime:0.006458s ]
+---------------------------------------------------------------
+[ 2018-09-12T10:52:07+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/version/add.html
+[ info ] byu3109350001.my3w.com/index.php/admin/version/add.html [运行时间：0.066530s][吞吐率：15.03req/s] [内存消耗：622.47kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'version',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/index/index.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Version->add[ /data/home/byu3109350001/htdocs/app/application/admin/controller/Version.php ]
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/version/add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T10:52:11+08:00 ] 172.17.87.134 116.22.135.247 GET /index.php/admin/news/
+[ info ] byu3109350001.my3w.com/index.php/admin/news/ [运行时间：0.087601s][吞吐率：11.42req/s] [内存消耗：870.34kb] [文件加载：67]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'news',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur; Hm_lvt_080836300300be57b7f34f4b3e97d911=1536720678; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1536720678',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/app/public/static/admin/uploadify/uploadify.swf?preventswfcaching=1536720693425',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\News->index[ /data/home/byu3109350001/htdocs/app/application/admin/controller/News.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/byu3109350001/htdocs/app/public/../application/admin/view/news/index.html [ array (
+  0 => 'cats',
+  1 => 'news',
+  2 => 'pageTotal',
+  3 => 'curr',
+  4 => 'start_time',
+  5 => 'end_time',
+  6 => 'catid',
+  7 => 'title',
+  8 => 'query',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009956s ] mysql:dbname=bdm280513349_db;host=bdm280513349.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ent_news` [ RunTime:0.006493s ]
+[ sql ] [ SQL ] SELECT `id`,`catid`,`image`,`title`,`read_count`,`status`,`is_position`,`update_time`,`create_time` FROM `ent_news` WHERE  `status` <> -1 ORDER BY `id`  desc LIMIT 0,4 [ RunTime:0.006021s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ent_news` WHERE  `status` <> -1 LIMIT 1 [ RunTime:0.005839s ]
+---------------------------------------------------------------
+[ 2018-09-12T11:01:16+08:00 ] 172.17.87.134 121.206.183.88 HEAD /
+[ info ] www.eshuo.top/ [运行时间：0.030914s][吞吐率：32.35req/s] [内存消耗：428.70kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'host' => 'www.eshuo.top',
+  'pragma' => 'no-cache',
+  'user-agent' => 'Chrome/57',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T11:11:07+08:00 ] 172.17.87.134 116.22.135.247 GET /app/public/captcha
+[ info ] byu3109350001.my3w.com/app/public/captcha [运行时间：0.038397s][吞吐率：26.04req/s] [内存消耗：545.43kb] [文件加载：50]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=7l7hme21t3nn0de59mulfgsjur',
+  'host' => 'byu3109350001.my3w.com',
+  'referer' => 'http://byu3109350001.my3w.com/index.php/admin/login/index.html',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /data/home/byu3109350001/htdocs/app/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T11:50:43+08:00 ] 172.17.87.134 203.208.60.78 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031373s][吞吐率：31.87req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T12:29:51+08:00 ] 172.17.87.134 203.208.60.3 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031047s][吞吐率：32.21req/s] [内存消耗：431.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T15:39:50+08:00 ] 172.17.87.134 203.208.60.91 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031556s][吞吐率：31.69req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T16:50:28+08:00 ] 172.17.87.134 203.208.60.27 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031244s][吞吐率：32.01req/s] [内存消耗：431.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T17:00:16+08:00 ] 172.17.87.134 203.208.60.42 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031178s][吞吐率：32.07req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T17:41:17+08:00 ] 172.17.87.134 47.100.113.43 GET /
+[ info ] www.eshuo.top/ [运行时间：0.032734s][吞吐率：30.55req/s] [内存消耗：430.34kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T19:01:01+08:00 ] 172.17.87.134 203.208.60.58 GET /
+[ info ] www.eshuo.top/ [运行时间：0.064988s][吞吐率：15.39req/s] [内存消耗：431.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T19:44:32+08:00 ] 172.17.87.134 27.115.124.68 GET /
+[ info ] eshuo.top/ [运行时间：0.097053s][吞吐率：10.30req/s] [内存消耗：431.26kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'cache-control' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'eshuo.top',
+  'pragma' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T19:45:00+08:00 ] 172.17.87.134 183.192.164.214 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031466s][吞吐率：31.78req/s] [内存消耗：430.63kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'connection' => 'keep-alive',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko)     		Chrome/46.0.2490.11 Mobile Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T19:45:02+08:00 ] 172.17.87.134 101.91.60.11 GET /
+[ info ] www.eshuo.top/ [运行时间：0.030464s][吞吐率：32.83req/s] [内存消耗：431.08kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'en,*',
+  'connection' => 'keep-alive',
+  'host' => 'www.eshuo.top',
+  'referer' => '',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T23:16:54+08:00 ] 172.17.87.134 223.90.120.230 HEAD /
+[ info ] www.eshuo.top/ [运行时间：0.031126s][吞吐率：32.13req/s] [内存消耗：428.70kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'host' => 'www.eshuo.top',
+  'pragma' => 'no-cache',
+  'user-agent' => 'Chrome/57',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-12T23:42:55+08:00 ] 172.17.87.134 203.208.60.95 GET /
+[ info ] www.eshuo.top/ [运行时间：0.031838s][吞吐率：31.41req/s] [内存消耗：430.67kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/byu3109350001/htdocs/app/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate,br',
+  'connection' => 'keep-alive',
+  'from' => 'googlebot(at)googlebot.com',
+  'host' => 'www.eshuo.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/home/byu3109350001/htdocs/app/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
