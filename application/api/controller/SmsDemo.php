@@ -77,13 +77,13 @@ class SmsDemo
         //$request->setProtocol("https");
 
         // 必填，设置短信接收号码
-        $request->setPhoneNumbers("13411785497");
+        $request->setPhoneNumbers("13411******");
 
         // 必填，设置签名名称，应严格按"签名名称"填写，请参考: https://dysms.console.aliyun.com/dysms.htm#/develop/sign
-        $request->setSignName("eshuo娱乐App");
+        $request->setSignName("eshuo娱乐***");
 
         // 必填，设置模板CODE，应严格按"模板CODE"填写, 请参考: https://dysms.console.aliyun.com/dysms.htm#/develop/template
-        $request->setTemplateCode("SMS_143718513");
+        $request->setTemplateCode("SMS_143******");
 
         // 可选，设置模板参数, 假如模板中存在变量需要替换则为必填项
         $request->setTemplateParam(json_encode(array(  // 短信模板中字段的值

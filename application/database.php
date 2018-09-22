@@ -19,7 +19,7 @@ return [
     // 用户名
     'username'        => 'bdm280513349',
     // 密码
-    'password'        => 'clannad.1',
+    'password'        => 'cl*******',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
